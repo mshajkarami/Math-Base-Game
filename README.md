@@ -1,15 +1,27 @@
-# Material Theme Builder Android Export
+# Math Base Game
 
-## Basics
+A simple and fun Android math game built with **Java**, designed to help users improve their mental math skills through interactive gameplay.
 
-This archive contains a number of files defining a Material 3 theme:
+## 🎮 Gameplay
 
-* values/colors.xml        - contains all colors used by your theme
-* values/theme.xml         - assigns those colors to roles in the light theme
-* values-night/theme.xml   - assigns those colors to roles in the dark theme
+- The player is shown random math questions (e.g., addition, subtraction).
+- A limited time is given to answer each question.
+- Score increases with each correct answer.
+- Game ends if time runs out or the answer is wrong.
 
-In your project, you can copy the two directories to /app/src/main/res/.
-Please note that in Android Studio, the Android project view groups theme.xml files
-appearing to indicate there is an additional subdirectory. Either switch to the
+## ✨ Features
 
-Project view or copy the files over in Finder/File Explorer.
+- Basic arithmetic questions (addition, subtraction, etc.)
+- Timer-based challenge for each question
+- Score tracking
+- Simple and clean UI
+- Lightweight and easy to run on most Android devices
+
+## 🛠 Technologies Used
+
+- Java
+- Android SDK
+- Android Studio
+- XML (UI Layouts)
+
+## 📁 Project Structure
